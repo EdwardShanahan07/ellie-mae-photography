@@ -21,6 +21,11 @@
 
 ## Design 
 
+### Wireframes
+### Typography 
+### Colours 
+### Protype
+
 ## Features
 
 ## Testing 
