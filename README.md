@@ -4,7 +4,9 @@
 
 ## User Experience 
 
-### Strategy
+### Project Overview
+
+### Users Stories 
 
 #### Site Owner Goals
 - I want users to easily navigate the website
