@@ -21,7 +21,12 @@
 
 ## Design 
 
-### Wireframes
+### Wireframe
+
+Wireframe was created using [Figma](https://www.figma.com/)
+
+![alt text](./readme-assets/images/wireframe.jpg "Website Wireframe")
+
 ### Typography 
 ### Colours 
 ### Protype
