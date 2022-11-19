@@ -22,10 +22,9 @@
 ## Design 
 
 ### Wireframe
-
 Wireframe was created using [Figma](https://www.figma.com/)
 
-![alt text](./readme-assets/images/wireframe.jpg "Website Wireframe")
+<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe">
 
 ### Typography 
 ### Colours 
