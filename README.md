@@ -26,6 +26,8 @@ Wireframe was created using [Figma](https://www.figma.com/)
 
 <img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe">
 
+### Wireframe
+
 Prototype was created using [Figma](https://www.figma.com/)
 
 <img src="./readme-assets/images/prototype.jpg" alt="Website Prototype">
