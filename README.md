@@ -24,13 +24,13 @@
 ### Wireframe
 Wireframe was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe">
+<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe" width="50%" height="50%">
 
 ### Prototype
 
 Prototype was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype">
+<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="50%" height="50%">
 
 ### Typography 
 ### Colours 
