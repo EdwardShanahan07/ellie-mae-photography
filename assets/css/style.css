@@ -171,3 +171,23 @@ main {
 .about-img img {
     width: 100%;
 }
+
+.social-links {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.social-links a {
+    color: #303036;
+    margin-right: 2.5rem;
+}
+
+.social-links a:hover {
+    color: #3E78B2;
+    margin-right: 2.5rem;
+}
+
+.social-links i {
+    font-size: 2.4rem;
+}
