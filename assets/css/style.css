@@ -23,14 +23,24 @@ body {
     font-family: 'Montserrat', sans-serif; 
 }
 
+/* Headings */
+
+h1, h2, h3 {
+    color: #3E78B2;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
 /* Header */
 
 header {
     background: #f1f1f1;
     height: 100vh;
-    
     padding: 4rem 0;
-   
 }
 
 .logo {
@@ -70,3 +80,7 @@ header {
 .navbar li a:hover {
     color: #3E78B2;
 }
+
+
+
+
