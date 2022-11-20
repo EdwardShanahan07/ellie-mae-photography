@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@700&display=swap');
 
+img {
+    width: 100%
+}
+
 /* Global */
 
 /* Reset browsers default margin and padding to 0 */
