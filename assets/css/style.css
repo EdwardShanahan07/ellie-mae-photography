@@ -35,6 +35,22 @@ h1 {
     font-size: 4rem;
 }
 
+/* Button */
+
+.button {
+    color: #3E78B2;
+    font-size: 2.4rem;
+    text-decoration: none;
+    border: 1px solid #3E78B2;
+    border-radius: 5px;
+    padding: 1.5rem 4rem;
+}
+
+.button:hover {
+    color: #fff;
+    background-color: #3E78B2;;
+}
+
 /* Header */
 
 header {
@@ -59,7 +75,7 @@ header {
     align-items: center;
     justify-content: space-between;
     width: 80%;
-    margin: 0 auto;
+    margin: 0 auto 10rem auto;
 }
 
 .navbar ul {
@@ -79,6 +95,40 @@ header {
 
 .navbar li a:hover {
     color: #3E78B2;
+}
+
+/* Hero */
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto; 
+}
+
+.hero-text {
+    flex-basis: 45%;
+}
+
+.hero-text h1 {
+    margin-bottom: 2rem;
+}
+
+.hero-text h3 {
+    color: inherit;
+    font-size: 2.4rem;
+    font-family: inherit;
+    font-weight: 400;
+    margin-bottom: 5rem;
+}
+
+.hero-img {
+    flex-basis: 50%;
+}
+
+.hero-img img {
+    width: 100%;
 }
 
 
