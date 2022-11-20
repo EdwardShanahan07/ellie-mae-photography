@@ -2,9 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@700&display=swap');
 
-/* font-family: 'Montserrat', sans-serif;
-font-family: 'Playfair Display', serif; */
-
 /* Global */
 
 /* Reset browsers default margin and padding to 0 */
@@ -35,6 +32,10 @@ h1 {
     font-size: 4rem;
 }
 
+h2 {
+    font-size: 3.2rem;
+}
+
 /* Button */
 
 .button {
@@ -56,6 +57,7 @@ h1 {
 header {
     background: #f1f1f1;
     height: 100vh;
+    margin-bottom: 10rem;
     padding: 4rem 0;
 }
 
@@ -138,6 +140,34 @@ main {
     margin: 0 auto;
 }
 
+/* About */
 
+#about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10rem;
+}
 
+.about-img {
+    flex-basis: 50%;
+}
 
+.about-text {
+    flex-basis: 45%;
+}
+
+.about-text h2 {
+    margin-bottom: 2rem;
+}
+
+.about-text p {
+    color: #303036;
+    font-size: 1.5rem;
+    line-height: 26px;
+    margin-bottom: 1rem;
+}
+
+.about-img img {
+    width: 100%;
+}
