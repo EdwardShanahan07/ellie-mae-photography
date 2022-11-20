@@ -4,3 +4,21 @@
 
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Playfair Display', serif; */
+
+/* Global */
+
+/* Reset browsers default margin and padding to 0 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Reset default font-size of 16px to 10px use percentage */
+html {
+    font-size: 62.5%; 
+}
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+}
