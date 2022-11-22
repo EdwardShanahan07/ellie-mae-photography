@@ -250,7 +250,20 @@ main {
 }
 
 
+/* Pricing */
 
+#pricing {
+    margin-bottom: 10rem;
+}
+
+#pricing h2 {
+    margin-bottom: 4rem;
+}
+
+.pricing-cards {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
