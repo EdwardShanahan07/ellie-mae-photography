@@ -321,4 +321,56 @@ main {
 
 .contact-form {
     flex-basis: 50%;
+    padding: 4rem;
+}
+
+.contact-form h2 {
+    color: #fff;
+    margin-bottom: 4rem;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.form-group label {
+    color: #fff;
+    font-size: 1.6rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.form-group input, .form-group textarea  {
+    color: #fff;
+    font-family: inherit;
+    font-size: 1.6rem;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    width: 100%;
+}
+
+.form-group input:focus, .form-group textarea:focus {
+    border-bottom: 1px solid #1476d9;
+    outline: none;
+}
+
+.form-group textarea {
+    resize: none;
+}
+
+.form .button {
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    cursor: pointer;
+}
+
+.form-group-message {
+    margin-bottom: 4rem;
+}
+
+.form .button:hover {
+    color: #303036;
+    background-color: #fff;
 }
