@@ -296,3 +296,23 @@ main {
     align-items: center;
     justify-content: space-between;
 }
+
+/* Contact */
+
+#contact {
+    display: flex;
+}
+
+.contact-img {
+    flex-basis: 50%;
+}
+
+.contact-img img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.contact-form {
+    flex-basis: 50%;
+}
