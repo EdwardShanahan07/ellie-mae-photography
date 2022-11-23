@@ -261,7 +261,40 @@ main {
 }
 
 .pricing-cards {
+    
     display: flex;
+    justify-content: space-between;
+}
+
+.pricing-card {
+    flex-basis: 30%;
+    border: 1px solid #303036;
+    border-radius: 10px;
+    padding: 4rem;
+}
+
+.pricing-card h3 {
+    color: #303036;
+    font-size: 2.4rem;
+    margin-bottom: 2rem;
+}
+
+.pricing-card h2 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+}
+
+.pricing-card ul {
+    margin-bottom: 8rem;
+}
+
+.pricing-card li {
+    font-size: 1.6rem;
+    border-bottom: 1px solid rgba(48, 48, 54, 0.2);
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 
