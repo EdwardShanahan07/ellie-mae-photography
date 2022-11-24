@@ -378,7 +378,7 @@ main {
 /* Footer */
 
 .footer {
-    background-color: #1476d9;
+    background-color: #3E78B2;
     padding: 4rem;
 }
 
@@ -447,5 +447,27 @@ main {
 
 .footer-contact {
     text-align: right;
+}
+
+.footer-contact a {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.footer-contact address {
+    font-style: normal;
+}
+
+.footer-contact .social-links {
+    justify-content: flex-end;
+}
+
+.footer-contact .social-links a {
+    margin-right: 0;
+    margin-left: 2.5rem;
+}
+
+.footer-contact .social-links a:hover {
+    color: rgb(230, 230, 230);
 }
 
