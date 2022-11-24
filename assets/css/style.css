@@ -374,3 +374,53 @@ main {
     color: #303036;
     background-color: #fff;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1476d9;
+    padding: 4rem;
+}
+
+.footer-content {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-info  {
+    color: #fff;
+}
+
+.footer-info small, .footer-info p {
+    font-size: 1.4rem;
+}
+
+.footer-info small {
+    margin-bottom: 1rem;
+}
+
+.footer h3 {
+    color: #fff;
+    font-size: 2.4rem;
+    margin-bottom: 2rem;
+}
+
+.footer a, .footer small {
+    color: #fff;
+    display: block;
+}
+
+.footer-info a, .logo span {
+    color: #fff;
+}
+
+.footer .logo {
+    margin-bottom: 2rem;
+}
+
+.footer-contact {
+    text-align: right;
+}
+
