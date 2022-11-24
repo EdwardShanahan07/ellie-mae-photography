@@ -397,6 +397,10 @@ main {
     font-size: 1.4rem;
 }
 
+.footer-info p {
+    line-height: 24px;
+}
+
 .footer-info small {
     margin-bottom: 1rem;
 }
@@ -412,7 +416,7 @@ main {
     display: block;
 }
 
-.footer-info a, .logo span {
+.footer-info a, .footer-info .logo span {
     color: #fff;
 }
 
