@@ -416,12 +416,33 @@ main {
     display: block;
 }
 
+.footer a {
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
 .footer-info a, .footer-info .logo span {
     color: #fff;
 }
 
 .footer .logo {
     margin-bottom: 2rem;
+}
+
+.footer-nav ul {
+    list-style: none;
+}
+
+.footer-nav li {
+    margin-bottom: 1rem;
+}
+
+.footer-nav a {
+    font-size: 1.4rem;
+    text-decoration: none;
 }
 
 .footer-contact {
