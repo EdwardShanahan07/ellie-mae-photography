@@ -389,15 +389,12 @@ main {
     justify-content: space-between;
 }
 
-.footer-info  {
-    color: #fff;
-}
-
 .footer-info small, .footer-info p {
     font-size: 1.4rem;
 }
 
 .footer-info p {
+    color: #fff;
     line-height: 24px;
 }
 
@@ -414,6 +411,7 @@ main {
 .footer a, .footer small {
     color: #fff;
     display: block;
+    font-size: 1.4rem;
 }
 
 .footer a {
@@ -424,12 +422,13 @@ main {
     text-decoration: underline;
 }
 
-.footer-info a, .footer-info .logo span {
-    color: #fff;
+.footer .logo {
+    font-size: 2.4rem;
+    margin-bottom: 2rem;
 }
 
-.footer .logo {
-    margin-bottom: 2rem;
+.footer-info .logo span {
+    color: #fff;
 }
 
 .footer-nav ul {
@@ -438,11 +437,6 @@ main {
 
 .footer-nav li {
     margin-bottom: 1rem;
-}
-
-.footer-nav a {
-    font-size: 1.4rem;
-    text-decoration: none;
 }
 
 .footer-contact {
