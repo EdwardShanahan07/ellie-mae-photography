@@ -14,6 +14,7 @@
 /* Reset default font-size of 16px to 10px use percentage */
 html {
     font-size: 62.5%; 
+    scroll-behavior: smooth;
 }
 
 body {
