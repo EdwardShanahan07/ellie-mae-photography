@@ -56,7 +56,7 @@ h2 {
 /* Header */
 
 header {
-    background: #f1f1f1;
+    background: #fdfdfd;
     height: 100vh;
     margin-bottom: 10rem;
     padding: 4rem 0;
@@ -464,5 +464,58 @@ main {
 
 .footer-contact .social-links a:hover {
     color: rgb(230, 230, 230);
+}
+
+/* Media Querys */
+
+@media (max-width: 1060px) {
+    header {
+        color: #fff;
+        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
+            url(../images/hero.jpg) no-repeat center/cover;
+        height: 70vh;
+    }
+
+    .hero {
+        display: flex;
+        align-items: center;
+        height: 50%;
+    }
+
+    .logo, .logo span {
+        color: #fff;
+    } 
+    
+    .navbar li a {
+        color: #fff;
+    }
+
+    .navbar li a:hover {
+        color: #d7d6d6;
+    }
+
+    h1 {
+        color: #fff;
+    }
+
+    .hero-text {
+        flex-basis: 60%;
+    }
+
+
+    .hero-img {
+        display: none;
+    }
+
+    .hero-text .button {
+        color: #fff;
+        border-color: #fff;
+    }
+
+    .hero-text .button:hover {
+        color: #d7d6d6;
+        background-color: transparent;
+        border-color: #d7d6d6;
+    }
 }
 
