@@ -380,7 +380,7 @@ main {
 
 .footer {
     background-color: #3E78B2;
-    padding: 4rem;
+    padding: 4rem 0;
 }
 
 .footer-content {
@@ -601,7 +601,6 @@ main {
     }
 
     .contact-img {
-        
         order: 2;
     }
 
@@ -637,3 +636,79 @@ main {
         margin-right: 2.5rem;
     } 
 }
+
+@media (max-width: 600px) {
+
+    .button {
+        font-size: 1.6rem;
+    }
+
+    h2 {
+        font-size: 2.4rem;
+    }
+
+    h3, .footer-contact h3 {
+        font-size: 1.6rem;
+    }
+
+    h1 {
+        font-size: 3.2rem;
+    }
+
+    header, 
+    #about, 
+    #portfolio, 
+    #pricing, 
+    #contact {
+        margin-bottom: 5rem;
+    }
+
+    .navbar, 
+    .hero, 
+    main, 
+    .footer-content {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .hero {
+        height: 80%;
+    }
+
+    .hero-text h3 {
+        font-size: 1.6rem;
+    }
+
+    header {
+        height: 100vh;
+    }
+
+    .about-img img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .portfolio-images {
+        grid-template-columns: 1fr;
+        grid-row: auto;
+        gap: 0;
+    }
+
+    .portfolio-1,
+    .portfolio-2,
+    .portfolio-3,
+    .portfolio-4,
+    .portfolio-5,
+    .portfolio-6,
+    .portfolio-7,
+    .portfolio-8 {
+        grid-column: 1 / -1;
+    }
+
+    .portfolio-image img {
+        width: 100%;
+        height: 300px;
+    }
+
+}
+
