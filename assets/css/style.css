@@ -261,8 +261,8 @@ main {
 }
 
 .pricing-cards {
-    
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -517,5 +517,70 @@ main {
         background-color: transparent;
         border-color: #d7d6d6;
     }
+
+    .pricing-card {
+        flex-basis: 50%;
+    }
 }
 
+@media (max-width: 900px) {
+    .navbar ul {
+        display: none;
+    }
+
+    #about {
+        flex-direction: column;
+    }
+
+    .about-img {
+        margin-bottom: 4rem;
+    }
+
+   .about-img img {
+        border-radius: 100%;
+        object-fit: cover;
+        width: 300px;
+        height: 300px;
+   }
+
+   .portfolio-images {
+        grid-template-columns: repeat(6, 1fr);
+   }
+
+   .portfolio-image {
+    height: auto;
+   }
+
+   .portfolio-1 {
+        grid-column: 1 / -1;
+        grid-row: auto;
+   }
+
+   .portfolio-2 {
+        grid-column: 1 / 4;
+   }
+
+   .portfolio-3 {
+        grid-column: 4 / -1;
+   }
+
+   .portfolio-4 {
+    grid-column: 1 / 4;
+}
+
+   .portfolio-5 {
+    grid-column: 4/ -1;
+   }
+
+   .portfolio-6 {
+        grid-column: 1 / 4;
+    }
+
+    .portfolio-7 {
+        grid-column: 4 / 7;
+    }
+
+    .portfolio-8{
+        grid-column: 1 / -1;
+    }
+}
