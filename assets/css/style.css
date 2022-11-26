@@ -639,6 +639,14 @@ main {
 
 @media (max-width: 600px) {
 
+    .hero-text {
+        flex-basis: 100%;
+    }
+
+    .hero-text h3 {
+        line-height: 28px;
+    }
+
     .button {
         font-size: 1.6rem;
     }
@@ -707,6 +715,11 @@ main {
 
     .portfolio-images img {
         height: 100%;
+    }
+
+    .pricing-card h2 {
+        font-size: 3.2rem;
+        margin-bottom: 2rem;
     }
 }
 
