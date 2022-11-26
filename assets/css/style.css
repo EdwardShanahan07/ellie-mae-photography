@@ -502,7 +502,6 @@ main {
         flex-basis: 60%;
     }
 
-
     .hero-img {
         display: none;
     }
@@ -583,4 +582,58 @@ main {
     .portfolio-8{
         grid-column: 1 / -1;
     }
+}
+
+@media (max-width: 820px) {
+    .hero-text {
+        flex-basis: 80%;
+    }
+    .pricing-cards {
+        flex-direction: column;
+    }
+    .pricing-card {
+        margin-bottom: 4rem;
+        padding-bottom: 8rem;
+    }
+
+    #contact {
+        flex-direction: column;
+    }
+
+    .contact-img {
+        
+        order: 2;
+    }
+
+    .contact-img img {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        
+    }
+
+    .footer-info {
+        margin-bottom: 4rem;
+    }
+
+    .footer-nav {
+        margin-bottom: 4rem;
+    }
+
+    .footer-contact {
+        text-align: left;
+    }
+
+    .footer-contact .social-links {
+        justify-content: start;
+    }
+
+    .footer-contact .social-links a {
+        margin-left: 0;
+        margin-right: 2.5rem;
+    } 
 }
