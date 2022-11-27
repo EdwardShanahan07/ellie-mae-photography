@@ -570,7 +570,8 @@ main {
         display: none;
     }
 
-    .navbar.active ul {
+    .navbar ul.active {
+        display: flex;
         z-index: 1;
         flex-direction: column;
         justify-content: center;
@@ -581,16 +582,16 @@ main {
         width: 100%;
         left: 0;
         top: 0;
-        display: block;
+
     }
 
-    .navbar li {
+    .navbar ul.active li {
+        width: 100%;
         margin-bottom: 4rem;
     }
 
-    .navbar li a {
+    .navbar ul.active li a {
         font-size: 2.4rem;
-
     }
 
     .hamburger {
