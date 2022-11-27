@@ -13,17 +13,19 @@
 
 /* Reset default font-size of 16px to 10px use percentage */
 html {
-    font-size: 62.5%; 
+    font-size: 62.5%;
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Headings */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     color: #3E78B2;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
@@ -50,7 +52,8 @@ h2 {
 
 .button:hover {
     color: #fff;
-    background-color: #3E78B2;;
+    background-color: #3E78B2;
+    ;
 }
 
 /* Header */
@@ -114,13 +117,15 @@ header {
     margin: 5px 0;
 }
 
-.hamburger.active .hamburger-lines:nth-child(2){
+.hamburger.active .hamburger-lines:nth-child(2) {
     opacity: 0;
 }
-.hamburger.active .hamburger-lines:nth-child(1){
+
+.hamburger.active .hamburger-lines:nth-child(1) {
     transform: translateY(8px) rotate(45deg);
 }
-.hamburger.active .hamburger-lines:nth-child(3){
+
+.hamburger.active .hamburger-lines:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
 }
 
@@ -131,7 +136,7 @@ header {
     align-items: center;
     justify-content: space-between;
     width: 80%;
-    margin: 0 auto; 
+    margin: 0 auto;
 }
 
 .hero-text {
@@ -230,7 +235,7 @@ main {
 .portfolio-images {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows:  280px 280px 380px;
+    grid-template-rows: 280px 280px 380px;
     gap: 2rem;
 }
 
@@ -259,7 +264,7 @@ main {
 }
 
 .portfolio-5 {
-  grid-column: 10 / 13;
+    grid-column: 10 / 13;
 }
 
 .portfolio-6 {
@@ -365,7 +370,8 @@ main {
     margin-bottom: 1rem;
 }
 
-.form-group input, .form-group textarea  {
+.form-group input,
+.form-group textarea {
     color: #fff;
     font-family: inherit;
     font-size: 1.6rem;
@@ -375,7 +381,8 @@ main {
     width: 100%;
 }
 
-.form-group input:focus, .form-group textarea:focus {
+.form-group input:focus,
+.form-group textarea:focus {
     border-bottom: 1px solid #1476d9;
     outline: none;
 }
@@ -414,7 +421,8 @@ main {
     justify-content: space-between;
 }
 
-.footer-info small, .footer-info p {
+.footer-info small,
+.footer-info p {
     font-size: 1.4rem;
 }
 
@@ -433,7 +441,8 @@ main {
     margin-bottom: 2rem;
 }
 
-.footer a, .footer small {
+.footer a,
+.footer small {
     color: #fff;
     display: block;
     font-size: 1.4rem;
@@ -495,7 +504,7 @@ main {
 @media (max-width: 1060px) {
     header {
         color: #fff;
-        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
+        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
             url(../images/hero.jpg) no-repeat center/cover;
         height: 70vh;
     }
@@ -506,10 +515,11 @@ main {
         height: 50%;
     }
 
-    .logo, .logo span {
+    .logo,
+    .logo span {
         color: #fff;
-    } 
-    
+    }
+
     .navbar li a {
         color: #fff;
     }
@@ -563,43 +573,43 @@ main {
         margin-bottom: 4rem;
     }
 
-   .about-img img {
+    .about-img img {
         border-radius: 100%;
         object-fit: cover;
         width: 300px;
         height: 300px;
-   }
+    }
 
-   .portfolio-images {
+    .portfolio-images {
         grid-template-columns: repeat(6, 1fr);
-   }
+    }
 
-   .portfolio-image {
-    height: auto;
-   }
+    .portfolio-image {
+        height: auto;
+    }
 
-   .portfolio-1 {
+    .portfolio-1 {
         grid-column: 1 / -1;
         grid-row: auto;
-   }
+    }
 
-   .portfolio-2 {
+    .portfolio-2 {
         grid-column: 1 / 4;
-   }
+    }
 
-   .portfolio-3 {
+    .portfolio-3 {
         grid-column: 4 / -1;
-   }
+    }
 
-   .portfolio-4 {
-    grid-column: 1 / 4;
-}
+    .portfolio-4 {
+        grid-column: 1 / 4;
+    }
 
-   .portfolio-5 {
-    grid-column: 4/ -1;
-   }
+    .portfolio-5 {
+        grid-column: 4/ -1;
+    }
 
-   .portfolio-6 {
+    .portfolio-6 {
         grid-column: 1 / 4;
     }
 
@@ -607,7 +617,7 @@ main {
         grid-column: 4 / 7;
     }
 
-    .portfolio-8{
+    .portfolio-8 {
         grid-column: 1 / -1;
     }
 }
@@ -616,9 +626,11 @@ main {
     .hero-text {
         flex-basis: 80%;
     }
+
     .pricing-cards {
         flex-direction: column;
     }
+
     .pricing-card {
         margin-bottom: 4rem;
         padding-bottom: 8rem;
@@ -640,7 +652,7 @@ main {
 
     .footer-content {
         flex-direction: column;
-        
+
     }
 
     .footer-info {
@@ -662,7 +674,7 @@ main {
     .footer-contact .social-links a {
         margin-left: 0;
         margin-right: 2.5rem;
-    } 
+    }
 }
 
 @media (max-width: 600px) {
@@ -683,7 +695,8 @@ main {
         font-size: 2.4rem;
     }
 
-    h3, .footer-contact h3 {
+    h3,
+    .footer-contact h3 {
         font-size: 1.6rem;
     }
 
@@ -691,17 +704,17 @@ main {
         font-size: 3.2rem;
     }
 
-    header, 
-    #about, 
-    #portfolio, 
-    #pricing, 
+    header,
+    #about,
+    #portfolio,
+    #pricing,
     #contact {
         margin-bottom: 5rem;
     }
 
-    .navbar, 
-    .hero, 
-    main, 
+    .navbar,
+    .hero,
+    main,
     .footer-content {
         width: 90%;
         margin: 0 auto;
@@ -750,4 +763,3 @@ main {
         margin-bottom: 2rem;
     }
 }
-
