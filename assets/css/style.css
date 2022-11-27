@@ -100,6 +100,30 @@ header {
     color: #3E78B2;
 }
 
+.hamburger {
+    cursor: pointer;
+    display: none;
+}
+
+.hamburger-lines {
+    background-color: #fff;
+    transition: all 0.3s;
+    width: 30px;
+    height: 3px;
+    display: block;
+    margin: 5px 0;
+}
+
+.hamburger.active .hamburger-lines:nth-child(2){
+    opacity: 0;
+}
+.hamburger.active .hamburger-lines:nth-child(1){
+    transform: translateY(8px) rotate(45deg);
+}
+.hamburger.active .hamburger-lines:nth-child(3){
+    transform: translateY(-8px) rotate(-45deg);
+}
+
 /* Hero */
 
 .hero {
@@ -525,6 +549,10 @@ main {
 @media (max-width: 900px) {
     .navbar ul {
         display: none;
+    }
+
+    .hamburger {
+        display: block;
     }
 
     #about {
