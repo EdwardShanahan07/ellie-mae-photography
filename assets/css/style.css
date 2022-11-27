@@ -106,6 +106,7 @@ header {
 .hamburger {
     cursor: pointer;
     display: none;
+    z-index: 2;
 }
 
 .hamburger-lines {
@@ -557,8 +558,39 @@ main {
 }
 
 @media (max-width: 900px) {
+    html .hamburger {
+        scroll-snap-type: none;
+    }
+
+    header {
+        position: relative;
+    }
+
     .navbar ul {
         display: none;
+    }
+
+    .navbar.active ul {
+        z-index: 1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #3E78B2;
+        position: absolute;
+        height: 100vh;
+        width: 100%;
+        left: 0;
+        top: 0;
+        display: block;
+    }
+
+    .navbar li {
+        margin-bottom: 4rem;
+    }
+
+    .navbar li a {
+        font-size: 2.4rem;
+
     }
 
     .hamburger {
