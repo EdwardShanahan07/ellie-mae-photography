@@ -618,6 +618,7 @@ main {
 
     .portfolio-image {
         height: auto;
+        margin-bottom: 2rem;
     }
 
     .portfolio-1 {
