@@ -37,6 +37,8 @@ Prototype was created using [Figma](https://www.figma.com/)
 <img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="25%" height="25%">
 
 ### Typography 
+The fonts used are from [Google Fonts](https://fonts.google.com/).
+The fonts used are from Google Fonts. The font family for headings is Playfair Display using 700 font-weight. Montserrat is the overall font family, the font-weight is 400 and 700.
 ### Colours 
 ### Protype
 
