@@ -28,19 +28,19 @@
 ### Wireframe
 Wireframe was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe" width="25%" height="25%">
+<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe" width="40%" height="40%">
 
 ### Prototype
 
 Prototype was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="25%" height="25%">
+<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="40%" height="40%">
 
 ### Typography 
 The fonts used are from [Google Fonts](https://fonts.google.com/). The font family for headings is Playfair Display using 700 font-weight. Montserrat is the overall font family, the font-weight is 400 and 700.
 ### Colour Palette 
 
-<img src="./readme-assets/images/colour-palette.png" alt="Colour Palette" width="25%" height="25%">
+<img src="./readme-assets/images/colour-palette.png" alt="Colour Palette" width="40%" height="40%">
 
 Colour palette was generated using [Coolors](https://coolors.co/).
 
