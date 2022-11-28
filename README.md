@@ -1,5 +1,9 @@
 # Ellie Mae Photography
 
+<img src="./readme-assets/images/responsive.png" alt="Website in different devices">
+
+[Live Preview](https://edwardshanahan07.github.io/ellie-mae-photography/)
+
 ## Contents
 
 ## User Experience 
@@ -24,13 +28,13 @@
 ### Wireframe
 Wireframe was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe" width="50%" height="50%">
+<img src="./readme-assets/images/wireframe.jpg" alt="Website Wireframe" width="25%" height="25%">
 
 ### Prototype
 
 Prototype was created using [Figma](https://www.figma.com/)
 
-<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="50%" height="50%">
+<img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="25%" height="25%">
 
 ### Typography 
 ### Colours 
