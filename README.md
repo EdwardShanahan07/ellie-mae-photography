@@ -46,6 +46,30 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 
 ## Features
 
+### Header
+
+<img src="./readme-assets/images/feature-header.png" alt="Website Header">
+
+### About Section
+
+<img src="./readme-assets/images/feature-about.png" alt="Website About Section">
+
+### Portfolio Section
+
+<img src="./readme-assets/images/feature-portfolio.png" alt="Website Portfolio Section">
+
+### Pricing Section
+
+<img src="./readme-assets/images/feature-pricing.png" alt="Website Pricing Section">
+
+### Contact Section
+
+<img src="./readme-assets/images/feature-contact.png" alt="Website Contact Section">
+
+### Footer
+
+<img src="./readme-assets/images/feature-footer.png" alt="Website Footer">
+
 ## Testing 
 
 ## Credits 
