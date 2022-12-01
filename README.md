@@ -72,6 +72,40 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 
 ## Testing 
 
+### Browsers
+Tested website in different web browsers:
+- Google Chrome: Website works prefect
+- Firefox: Website works prefect
+- Safari: Website works prefect
+
+### Lighthouse
+
+#### Desktop
+Tested website for desktop on Google Devtools Lighthouse and returnd max scores!
+
+<img src="./readme-assets/images/lighthouse-desktop.png" alt="Google lighthouse results for desktop">
+
+#### Mobile
+Tested website for mobile on Google Devtools Lighthouse and returnd hight scores!
+
+<img src="./readme-assets/images/lighthouse-mobile.png" alt="Google lighthouse results for mobile">
+
+### HTML Validation 
+Tested HTML code with [W3C Validator](https://validator.w3.org/) and returned no errors.
+
+<img src="./readme-assets/images/html-checker.png" alt="W3C HTML code checker results">
+
+### CSS Validation 
+Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returned no errors.
+
+<img src="./readme-assets/images/css-validation.png" alt="Jigsaw CSS validation results">
+
+#### Desktop
+
+### HTML Validation 
+
+### CSS Validation 
+
 ## Credits 
 
 ## Deployment 
