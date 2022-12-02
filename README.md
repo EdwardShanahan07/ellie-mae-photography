@@ -1,4 +1,5 @@
 # Ellie Mae Photography
+This project is for Code Institute's Portfolio One project. In this project we are covering in what we learned in the HTML and CSS modules.
 
 <img src="./readme-assets/images/responsive.png" alt="Website in different devices">
 
