@@ -73,10 +73,10 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 ## Testing 
 
 ### Browsers
-Tested website in different web browsers:
-- Google Chrome: Website works prefect
-- Firefox: Website works prefect
-- Safari: Website works prefect
+Tested website in three different web browsers and the website works the same in all three.
+- Google Chrome 
+- Safari 
+- Firefox 
 
 ### Lighthouse
 
@@ -99,10 +99,6 @@ Tested HTML code with [W3C Validator](https://validator.w3.org/) and returned no
 Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returned no errors.
 
 <img src="./readme-assets/images/css-validation.png" alt="Jigsaw CSS validation results">
-
-### HTML Validation 
-
-### CSS Validation 
 
 ## Credits 
 
