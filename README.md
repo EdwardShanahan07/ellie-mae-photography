@@ -108,3 +108,9 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 <img src="./readme-assets/images/css-validation.png" alt="Jigsaw CSS validation results">
 
 ## Credits 
+
+### Code 
+
+### Resources 
+
+
