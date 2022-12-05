@@ -111,6 +111,24 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 
 ### Code 
 
+#### Reference Code for responsive navbar
+[How to Create a Responsive Hamburger Menu with HTML, CSS, & JavaScript](https://medium.com/@codefoxx/how-to-create-a-responsive-hamburger-menu-with-html-css-javascript-4dc10a45d3)
+
 ### Resources 
+- [Code Institute](https://codeinstitute.net/ie/)
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[MDN](https://developer.mozilla.org/en-US/)
+
+- [Pexels](https://www.pexels.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Coolors](https://coolors.co/)
+- [Font Awesome](https://fontawesome.com/)
+- [I Love Img](https://www.iloveimg.com/resize-image)
+- [Am I Responsive](https://ui.dev/amiresponsive)
+
+
+
+
 
 
