@@ -7,6 +7,33 @@ This project is for Code Institute's Portfolio One project. In this project we a
 
 ## Contents
 
+- [User Experience](#user-experience)
+  - [Project Overview](#project-overview)
+  - [Users Stories](#users-stories)
+      - [Site Owner Goals](#site-owner-goals)
+      - [Users Goals](#users-goals)
+- [Design](#design)
+  - [Wireframe](#wireframe)
+  - [Prototype](#prototype)
+  - [Typepgraphy](#typography)
+  - [Colour Palette](#colour-palette)
+- [Features](#features)
+  - [Header](#header)
+  - [About Section](#about-section)
+  - [Portfolio Section](#portfolio-section)
+  - [Contact Section](#contact-section)
+  - [Footer](#footer)
+- [Testing](#testing)
+  - [Browsers](#browsers)
+  - [Lighthouse](#lighthouse)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+  - [HTML Validation](#html-validation)
+  - [CSS Validation](#css-validation)
+- [Credits](#credits)
+  - [Code](#code)
+  - [Resources](#resources)
+
 ## User Experience 
 
 ### Project Overview
