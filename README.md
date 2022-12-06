@@ -120,6 +120,8 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [MDN](https://developer.mozilla.org/en-US/)
 
+- [Figma](https://www.figma.com/)
+
 - [Pexels](https://www.pexels.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Coolors](https://coolors.co/)
