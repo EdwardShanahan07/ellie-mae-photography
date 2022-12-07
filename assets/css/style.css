@@ -509,7 +509,7 @@ main {
         color: #fff;
         background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
             url(../images/hero.jpg) no-repeat center/cover;
-        height: 70vh;
+
     }
 
     .hero {
@@ -562,14 +562,13 @@ main {
 }
 
 @media (max-width: 900px) {
-    html .hamburger {
-        scroll-snap-type: none;
-    }
+
 
     /* Header */
 
     header {
         position: relative;
+
     }
 
     .navbar ul {
