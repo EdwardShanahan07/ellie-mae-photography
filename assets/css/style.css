@@ -503,6 +503,8 @@ main {
 /* Media Querys */
 
 @media (max-width: 1060px) {
+    /* Header */
+
     header {
         color: #fff;
         background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
@@ -552,6 +554,8 @@ main {
         border-color: #d7d6d6;
     }
 
+    /* Pricing Section */
+
     .pricing-card {
         flex-basis: 50%;
     }
@@ -561,6 +565,8 @@ main {
     html .hamburger {
         scroll-snap-type: none;
     }
+
+    /* Header */
 
     header {
         position: relative;
@@ -582,7 +588,6 @@ main {
         width: 100%;
         left: 0;
         top: 0;
-
     }
 
     .navbar ul.active li {
@@ -596,6 +601,8 @@ main {
     .hamburger {
         display: block;
     }
+
+    /* About Section */
 
     #about {
         flex-direction: column;
@@ -611,6 +618,8 @@ main {
         width: 300px;
         height: 300px;
     }
+
+    /* Portfolio Section */
 
     .portfolio-images {
         grid-template-columns: repeat(6, 1fr);
@@ -656,9 +665,13 @@ main {
 }
 
 @media (max-width: 820px) {
+
+    /* Header */
     .hero-text {
         flex-basis: 80%;
     }
+
+    /* Pricing Section */
 
     .pricing-cards {
         flex-direction: column;
@@ -668,6 +681,8 @@ main {
         margin-bottom: 4rem;
         padding-bottom: 8rem;
     }
+
+    /* Contact Section */
 
     #contact {
         flex-direction: column;
@@ -682,6 +697,8 @@ main {
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
     }
+
+    /* Footer */
 
     .footer-content {
         flex-direction: column;
@@ -711,6 +728,8 @@ main {
 }
 
 @media (max-width: 600px) {
+
+    /* Header */
 
     .hero-text {
         flex-basis: 100%;
@@ -753,6 +772,8 @@ main {
         margin: 0 auto;
     }
 
+    /* Header */
+
     .hero {
         height: 80%;
     }
@@ -765,10 +786,14 @@ main {
         height: 100vh;
     }
 
+    /* About Section */
+
     .about-img img {
         width: 250px;
         height: 250px;
     }
+
+    /* Portfolio Section */
 
     .portfolio-images {
         grid-template-columns: 1fr;
