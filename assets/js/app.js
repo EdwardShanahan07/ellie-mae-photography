@@ -11,3 +11,8 @@ function toggleNavbar() {
 }
 
 hamburger.addEventListener("click", toggleNavbar);
+
+// Close navbar list when link is clicked
+
+const links = document.querySelectorAll(".navbar a")
+    .forEach(a => a.addEventListener("click", toggleNavbar));
