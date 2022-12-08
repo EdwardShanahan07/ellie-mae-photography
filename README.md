@@ -1,5 +1,9 @@
 # Ellie Mae Photography
-This project is for Code Institute's Portfolio One project. In this project we are covering in what we learned in the HTML and CSS modules.
+This project is for a fictional photographer. Ellie Mae is a professional photographer who wants to share her best work and gain new clients through this website. 
+
+The website is one page and easy to navigate, it is very clean using minimal colours and fonts. The website is also responsive for different screen sizes. 
+
+The user will be able to learn about Ellie Mae with the about section, and see her photography work using a modern photo gallery. The user will be able to see a list of her services and a contact form to get in touch. Ellie Mae’s social media accounts are also included on the website so users can keep up to date by following her. 
 
 <img src="./readme-assets/images/responsive.png" alt="Website in different devices">
 
@@ -8,7 +12,6 @@ This project is for Code Institute's Portfolio One project. In this project we a
 ## Contents
 
 - [User Experience](#user-experience)
-  - [Project Overview](#project-overview)
   - [Users Stories](#users-stories)
       - [Site Owner Goals](#site-owner-goals)
       - [Users Goals](#users-goals)
@@ -35,14 +38,6 @@ This project is for Code Institute's Portfolio One project. In this project we a
   - [Resources](#resources)
 
 ## User Experience 
-
-### Project Overview
-
-This project is for a fictional photographer. Ellie Mae is a professional photographer who wants to share her best work and gain new clients through this website. 
-
-The website is one page and easy to navigate, it is very clean using minimal colours and fonts. The website is also responsive for different screen sizes. 
-
-The user will be able to learn about Ellie Mae with the about section, and see her photography work using a modern photo gallery. The user will be able to see a list of her services and a contact form to get in touch. Ellie Mae’s social media accounts are also included on the website so users can keep up to date by following her. 
 
 ### Users Stories 
 
@@ -159,9 +154,3 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 - [Font Awesome](https://fontawesome.com/)
 - [I Love Img](https://www.iloveimg.com/resize-image)
 - [Am I Responsive](https://ui.dev/amiresponsive)
-
-
-
-
-
-
