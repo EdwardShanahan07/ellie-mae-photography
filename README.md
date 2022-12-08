@@ -13,13 +13,18 @@ The user will be able to learn about Ellie Mae with the about section, and see h
 
 - [User Experience](#user-experience)
   - [Users Stories](#users-stories)
-      - [Site Owner Goals](#site-owner-goals)
-      - [Users Goals](#users-goals)
+     - [Site Owner Goals](#site-owner-goals)
+     - [Users Goals](#users-goals)
 - [Design](#design)
   - [Wireframe](#wireframe)
   - [Prototype](#prototype)
   - [Typepgraphy](#typography)
+    - [Primary Font](#primary-font) 
+    - [Headings Font](#headings-font) 
   - [Colour Palette](#colour-palette)
+    - [Primary Colour](#primary-colour) 
+    - [Dark Colour](#dark-colour) 
+    - [White Colour](#white-colour) 
 - [Features](#features)
   - [Header](#header)
   - [About Section](#about-section)
@@ -66,12 +71,29 @@ Prototype was created using [Figma](https://www.figma.com/)
 <img src="./readme-assets/images/prototype.jpg" alt="Website Prototype" width="40%" height="40%">
 
 ### Typography 
-The fonts used are from [Google Fonts](https://fonts.google.com/). The font family for headings is Playfair Display using 700 font-weight. Montserrat is the overall font family, the font-weight is 400 and 700.
+The fonts used are from [Google Fonts](https://fonts.google.com/).
+
+#### Primary Font:
+[Montserrat](https://fonts.google.com/specimen/Montserrat)
+
+#### Headings Font:
+
+[Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+
 ### Colour Palette 
 
 <img src="./readme-assets/images/colour-palette.png" alt="Colour Palette" width="40%" height="40%">
 
 Colour palette was generated using [Coolors](https://coolors.co/).
+
+#### Primary Colour:
+#3E78B2
+
+#### Dark Colour:
+#303036
+
+#### White Colour: 
+#ffffff
 
 ## Features
 
