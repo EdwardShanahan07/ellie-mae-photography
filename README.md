@@ -99,11 +99,7 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 
 ### Header
 
-<img src="./readme-assets/images/feature-header.png" alt="Website Header">
-
-- The navbar contains Ellie Mae's logo and navigation links. The links link to different sections of the website. When a user clicks a link, it will go to that section.
-
-- On a tablet or mobile, the navigation links will be removed, and a hamburger icon will appear. If the user clicks the hamburger icon, the navigation will reappear and a close icon will also be displayed to close the navigation.
+<img src="./readme-assets/images/feature-header.png" alt="Website Header" />
 
 ### About Section
 
