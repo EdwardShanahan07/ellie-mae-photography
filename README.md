@@ -101,6 +101,10 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 
 <img src="./readme-assets/images/feature-header.png" alt="Website Header" />
 
+The header contains two main sections the Navbar and the hero. The Navbar lets users navigate through the website. The hero contains Ellie Mae’s photo and introductory text. There is a button linked to the form section, so the user can contact Ellie Mae. 
+
+The header contains two 
+
 ### About Section
 
 <img src="./readme-assets/images/feature-about.png" alt="Website About Section">
