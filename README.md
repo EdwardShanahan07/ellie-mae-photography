@@ -126,7 +126,7 @@ The pricing section contains three cards. The cards have different pricing plans
 
 <img src="./readme-assets/images/feature-contact.png" alt="Website Contact Section">
 
-The contact section has Ellie Mae's photo and a contact form. The user can contact Ellie Mae using their name, email, and message. The user must fill out all the forms because it won't send.
+The contact section has Ellie Mae's photo and a contact form. The user can contact Ellie Mae using their name, email, and message. The user must fill out all the form inputs because it won't send.
 
 ### Footer
 
@@ -176,9 +176,7 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [MDN](https://developer.mozilla.org/en-US/)
-
 - [Figma](https://www.figma.com/)
-
 - [Pexels](https://www.pexels.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Coolors](https://coolors.co/)
