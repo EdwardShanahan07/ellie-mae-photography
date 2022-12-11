@@ -11,7 +11,7 @@
     box-sizing: border-box;
 }
 
-/* Reset default font-size of 16px to 10px use percentage */
+/* Reset default font-size of 16px to 10px using percentage */
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
@@ -509,7 +509,6 @@ main {
         color: #fff;
         background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
             url(../images/hero.jpg) no-repeat center/cover;
-
     }
 
     .hero {
@@ -562,8 +561,6 @@ main {
 }
 
 @media (max-width: 900px) {
-
-
     /* Header */
 
     header {
@@ -664,8 +661,8 @@ main {
 }
 
 @media (max-width: 820px) {
-
     /* Header */
+
     .hero-text {
         flex-basis: 80%;
     }
@@ -701,7 +698,6 @@ main {
 
     .footer-content {
         flex-direction: column;
-
     }
 
     .footer-info {
