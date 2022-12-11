@@ -101,29 +101,38 @@ Colour palette was generated using [Coolors](https://coolors.co/).
 
 <img src="./readme-assets/images/feature-header.png" alt="Website Header" />
 
-The header contains two main sections the Navbar and the hero. The Navbar lets users navigate through the website. The hero contains Ellie Mae’s photo and introductory text. There is a button linked to the form section, so the user can contact Ellie Mae. 
-
-The header contains two 
+The header contains two sections the navbar and the hero. The navbar lets the user navigate through the website. When a user clicks a link in the navigation it will bring them to that section.
+The hero contains Ellie Mae's photo and introductory text. There is also a hire me button linked to the contact section.
 
 ### About Section
 
 <img src="./readme-assets/images/feature-about.png" alt="Website About Section">
 
+The about section has Ellie Mae's photo and a biography about her. There are also her social media icons linked to her social media. 
+
 ### Portfolio Section
 
 <img src="./readme-assets/images/feature-portfolio.png" alt="Website Portfolio Section">
+
+The portfolio section contains photos of Ellie Mae's best work. There are eight images in total.  The image gallery is made with CSS Grid, to give a modern look to the website.
 
 ### Pricing Section
 
 <img src="./readme-assets/images/feature-pricing.png" alt="Website Pricing Section">
 
+The pricing section contains three cards. The cards have different pricing plans. If the user clicks the enquire button, their default email app will open with the subject of the pricing plan which they want to enquire about and the Ellie Mae's email.
+
 ### Contact Section
 
 <img src="./readme-assets/images/feature-contact.png" alt="Website Contact Section">
 
+The contact section has Ellie Mae's photo and a contact form. The user can contact Ellie Mae using their name, email, and message. The user must fill out all the forms because it won't send.
+
 ### Footer
 
 <img src="./readme-assets/images/feature-footer.png" alt="Website Footer">
+
+The footer contains three sections. The first section is website information. The second section has the website navigation. The last section has contact information.
 
 ## Testing 
 
