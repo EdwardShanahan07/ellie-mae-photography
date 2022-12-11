@@ -185,3 +185,7 @@ Tested HTML code with [Jigsaw](https://jigsaw.w3.org/css-validator/) and returne
 - [Font Awesome](https://fontawesome.com/)
 - [I Love Img](https://www.iloveimg.com/resize-image)
 - [Am I Responsive](https://ui.dev/amiresponsive)
+
+### Acknowledgments  
+I would like to thank [Code Institute](https://codeinstitute.net/ie/) for amazing course contents to help me build this website.
+I would also like to thank my mentor Jubril Akolade, for the feedback of this project and other learning materials.
